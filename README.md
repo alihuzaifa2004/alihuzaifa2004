@@ -41,23 +41,35 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-huzaifa&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-huzaifa&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihuzaifa2004&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alihuzaifa2004&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
+## 🔥 GitHub Streak Stats
 
-## 🐦 Twitter Follow
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihuzaifa2004&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
+---
+## 🧠 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alihuzaifa2004&theme=tokyonight" alt="GitHub Trophies"/>
+</p>
+
+
+<!-- ## 🐦 Twitter Follow
 <p align="center">
   <a href="https://twitter.com/ali_hzfa" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ali_hzfa?style=social" alt="Twitter Follow"/>
   </a>
-</p>
+</p> -->
+
